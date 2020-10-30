@@ -558,6 +558,8 @@ libyaml
 libzmf
 licenses
 lightdm
+lightdm-gtk-greeter-settings
+lightdm-gtk-greeter
 lilv
 linux
 linux-api-headers
