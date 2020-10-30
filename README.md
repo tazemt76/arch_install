@@ -1,1 +1,1 @@
-# arch_install
+pacman -S - < package_list.txt
