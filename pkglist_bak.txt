@@ -647,7 +647,6 @@ ntp
 numlockx
 nvme-cli
 oniguruma
-onlyoffice-bin
 openal
 openconnect
 opencore-amr
